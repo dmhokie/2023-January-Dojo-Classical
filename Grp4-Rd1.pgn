@@ -4,7 +4,7 @@
 [Round "1"]
 [White "chessie102"]
 [Black "MezIpa"]
-[Result "*"]
+[Result "0-1"]
 [Section "1200-1600 B/C"]
 [WhiteId "chessie102#7363"]
 [BlackId "Genipa (C/L - UTC+2) #0322"]
@@ -12,7 +12,7 @@
 [BlackElo "1430"]
 
 {[%SevillaID "6268"]}
-*
+0-1
 
 [Event "2023 January Dojo Classical"]
 [Site "chess.com"]
@@ -52,7 +52,7 @@
 [Round "1"]
 [White "leedw2"]
 [Black "willm1966"]
-[Result "*"]
+[Result "1-0"]
 [Section "1200-1600 B/C"]
 [WhiteId "StA#1030"]
 [BlackId "WillM1966 #6004"]
@@ -60,7 +60,7 @@
 [BlackElo "1336"]
 
 {[%SevillaID "6273"]}
-*
+1-0
 
 [Event "2023 January Dojo Classical"]
 [Site "chess.com"]
@@ -68,7 +68,7 @@
 [Round "1"]
 [White "MarianTicala"]
 [Black "O2 AC"]
-[Result "*"]
+[Result "0-1"]
 [Section "1200-1600 B/C"]
 [WhiteId "xmicxmare#6002"]
 [BlackId "InvincibleYogurt#1997"]
@@ -76,7 +76,7 @@
 [BlackElo "1359"]
 
 {[%SevillaID "6271"]}
-*
+0-1
 
 [Event "2023 January Dojo Classical"]
 [Site "chess.com"]
@@ -116,7 +116,7 @@
 [Round "1"]
 [White "pachorrus"]
 [Black "seimerl"]
-[Result "*"]
+[Result "1-0"]
 [Section "1200-1600 B/C"]
 [WhiteId "Pachorrus (L, C +1)#6229"]
 [BlackId "seimerl#2502"]
@@ -124,7 +124,7 @@
 [BlackElo "1280"]
 
 {[%SevillaID "6275"]}
-*
+1-0
 
 [Event "2023 January Dojo Classical"]
 [Site "chess.com"]
@@ -148,7 +148,7 @@
 [Round "1"]
 [White "ricker"]
 [Black "DerDichterUndDenker"]
-[Result "*"]
+[Result "0-1"]
 [Section "1200-1600 B/C"]
 [WhiteId "ricker#5570"]
 [BlackId "DerDenker#6352"]
@@ -156,7 +156,7 @@
 [BlackElo "1230"]
 
 {[%SevillaID "6278"]}
-*
+0-1
 
 [Event "2023 January Dojo Classical"]
 [Site "chess.com"]
