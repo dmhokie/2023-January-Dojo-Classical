@@ -21,8 +21,8 @@
 /* MainTitleRow is the style for a row in the main title      */
 .MainTitleRow
 {
-	color: #f4e8f4;
-	background-color: #188048;
+	color: #f0f0c0;
+	background-color: #306090;
 	font-weight: bold;
 }
 
@@ -39,8 +39,8 @@
 /* SingleLineRow is the style for the row in the singleLine   */
 .SingleLineRow
 {
-	background-color: #e8f8e8;
-	font-size: 8pt;
+	background-color: #f8f8f8;
+	font-size: 12pt;
 }
 
 /* MemoTitle is the overall style for the memo                */
@@ -53,8 +53,8 @@
 /* MemoRow is the style for the row in the memo               */
 .MemoRow
 {
-	background-color: #e8f8e8;
-	font-size: 8pt;
+	background-color: #f8f8f8;
+	font-size: 12pt;
 }
 
 /* Logo is the style for the logo                             */
@@ -107,8 +107,8 @@
 {
 	font-weight: bold;
 	text-align: center;
-	color: #f4e8f4;
-	background-color: #188048;
+	color: #f0f0c0;
+	background-color: #306090;
 }
 
 /* MainTable holds the style of the main table                */
@@ -131,7 +131,7 @@
 /* MenuRow is the style for a row in the menu table           */
 .MenuRow
 {
-	background-color: #e8f8e8;
+	background-color: #f8f8f8;
 }
 
 /* menu group name are additional attributes for the group    */
@@ -180,8 +180,8 @@
 {
 	font-weight: bold;
 	text-align: center;
-	color: #f4e8f4;
-	background-color: #188048;
+	color: #f0f0c0;
+	background-color: #306090;
 }
 
 /* PlayerWebLink formats the cells where the player web links */
@@ -214,8 +214,8 @@
 /* a table with games                                         */
 .GameListHeader
 {
-	color: #f4e8f4;
-	background-color: #188048;
+	color: #f0f0c0;
+	background-color: #306090;
 	font-weight: bold;
 }
 
@@ -230,7 +230,7 @@
 /* even indexes                                               */
 .GameListEvenLine
 {
-	background-color: #d8f0d8;
+	background-color: #f8f8f8;
 }
 
 /* Specific widths for the player names in the game list      */
@@ -251,8 +251,8 @@
 /* with players                                               */
 .PlayerListTitle
 {
-	color: #f4e8f4;
-	background-color: #188048;
+	color: #f0f0c0;
+	background-color: #306090;
 	font-weight: bold;
 	text-align: center;
 }
@@ -261,8 +261,8 @@
 /* a table containing the list of players                     */
 .PlayerListHeader
 {
-	color: #f4e8f4;
-	background-color: #188048;
+	color: #f0f0c0;
+	background-color: #306090;
 	font-weight: bold;
 }
 
@@ -277,7 +277,7 @@
 /* with even indexes                                          */
 .PlayerListEvenLine
 {
-	background-color: #d8f0d8;
+	background-color: #f8f8f8;
 }
 
 /* RankColumns is the Rank columns container - outside the    */
@@ -303,8 +303,8 @@
 /* headers                                                    */
 .RankingTitle
 {
-	color: #f4e8f4;
-	background-color: #188048;
+	color: #f0f0c0;
+	background-color: #306090;
 	font-weight: bold;
 	text-align: center;
 }
@@ -313,8 +313,8 @@
 /* a table containing a ranking                               */
 .RankingHeader
 {
-	color: #f4e8f4;
-	background-color: #188048;
+	color: #f0f0c0;
+	background-color: #306090;
 	font-weight: bold;
 }
 
@@ -329,7 +329,7 @@
 /* even indexes                                               */
 .RankingEvenLine
 {
-	background-color: #d8f0d8;
+	background-color: #f8f8f8;
 }
 
 /* XRefTable is the style for a table with an crosstable or   */
@@ -344,8 +344,8 @@
 /* a crosstable                                               */
 .XRefHeader
 {
-	color: #f4e8f4;
-	background-color: #188048;
+	color: #f0f0c0;
+	background-color: #306090;
 	font-weight: bold;
 	vertical-align: bottom;
 }
@@ -361,7 +361,7 @@
 /* even indexes                                               */
 .XRefEvenLine
 {
-	background-color: #d8f0d8;
+	background-color: #f8f8f8;
 }
 
 /* XRefCell is special styling for cells of a crosstable,     */
@@ -474,8 +474,8 @@
 {
 	font-weight: bold;
 	text-align: center;
-	color: #f4e8f4;
-	background-color: #188048;
+	color: #f0f0c0;
+	background-color: #306090;
 }
 
 /* Board is the overall format for the board area             */
@@ -601,7 +601,7 @@
 /* on the board.                                              */
 .SelectedMove, .SelectedMoveText
 {
-	background-color: #d8f0d8;
+	background-color: #e0e0e0;
 }
 
 /* MoveComment is the style used for displaying comments in   */
@@ -614,7 +614,7 @@
 /* Hovering modification.                                     */
 .Move:hover, .Navigate:hover, .MoveText:hover
 {
-	background-color: #d8f0d8;
+	background-color: #e0e0e0;
 }
 
 /* below are constraints for 'ordinary' html tag rendering    */
@@ -633,7 +633,7 @@ ul
 td,th
 {
 	font-family: helvetica, arial, serif;
-	font-size: 8pt;
+	font-size: 12pt;
 }
 
 a
