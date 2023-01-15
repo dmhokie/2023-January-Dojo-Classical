@@ -180,7 +180,7 @@
 [Round "1"]
 [White "izzy sirius"]
 [Black "gundamwingsdj"]
-[Result "*"]
+[Result "0-1"]
 [Section "u1200 A"]
 [WhiteId "DarthVarg#6269"]
 [BlackId "gundamwings#1919"]
@@ -188,7 +188,7 @@
 [BlackElo "715"]
 
 {[%SevillaID "6235"]}
-*
+0-1
 
 [Event "2023 January Dojo Classical"]
 [Site "chess.com"]
@@ -244,7 +244,7 @@
 [Round "1"]
 [White "richardzt"]
 [Black "PanickedPawns"]
-[Result "*"]
+[Result "0-1"]
 [Section "u1200 A"]
 [WhiteId "richardzt#7163"]
 [BlackId "panickedpawns#4030"]
@@ -252,7 +252,7 @@
 [BlackElo "842"]
 
 {[%SevillaID "6232"]}
-*
+0-1
 
 [Event "2023 January Dojo Classical"]
 [Site "chess.com"]
@@ -260,7 +260,7 @@
 [Round "1"]
 [White "SageMuffin"]
 [Black "mike1mike"]
-[Result "*"]
+[Result "0-1"]
 [Section "u1200 A"]
 [WhiteId "SageMuffin#0150"]
 [BlackId "Mike1Mike#5542"]
@@ -268,7 +268,7 @@
 [BlackElo "969"]
 
 {[%SevillaID "6228"]}
-*
+0-1
 
 [Event "2023 January Dojo Classical"]
 [Site "chess.com"]
@@ -276,7 +276,7 @@
 [Round "1"]
 [White "StevoWard"]
 [Black "mykolsee"]
-[Result "*"]
+[Result "0-1"]
 [Section "u1200 A"]
 [WhiteId "StevoWard#3450"]
 [BlackId "mykol #9492"]
@@ -284,7 +284,7 @@
 [BlackElo "1106"]
 
 {[%SevillaID "6223"]}
-*
+0-1
 
 [Event "2023 January Dojo Classical"]
 [Site "chess.com"]

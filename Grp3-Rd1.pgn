@@ -20,7 +20,7 @@
 [Round "1"]
 [White "backgroundtasks"]
 [Black "Pokervane"]
-[Result "*"]
+[Result "0-1"]
 [Section "1200-1600 A"]
 [WhiteId "backgroundtasks#8903"]
 [BlackId "Pokervane#4011"]
@@ -28,7 +28,7 @@
 [BlackElo "1513"]
 
 {[%SevillaID "6246"]}
-*
+0-1
 
 [Event "2023 January Dojo Classical"]
 [Site "chess.com"]
@@ -164,7 +164,7 @@
 [Round "1"]
 [White "heathcliff chess"]
 [Black "Itzael ML"]
-[Result "*"]
+[Result "1-0"]
 [Section "1200-1600 A"]
 [WhiteId "Heathgresham"]
 [BlackId "Itzael#3800"]
@@ -172,7 +172,7 @@
 [BlackElo "1375"]
 
 {[%SevillaID "6255"]}
-*
+1-0
 
 [Event "2023 January Dojo Classical"]
 [Site "chess.com"]
@@ -228,7 +228,7 @@
 [Round "1"]
 [White "Petrefaxx"]
 [Black "Finsfleet"]
-[Result "*"]
+[Result "1-0"]
 [Section "1200-1600 A"]
 [WhiteId "ScottL"]
 [BlackId "Finsfleet (C, L, -8) #9860"]
@@ -236,7 +236,7 @@
 [BlackElo "1564"]
 
 {[%SevillaID "6245"]}
-*
+1-0
 
 [Event "2023 January Dojo Classical"]
 [Site "chess.com"]
@@ -260,7 +260,7 @@
 [Round "1"]
 [White "RikkoFrikko"]
 [Black "dokako"]
-[Result "*"]
+[Result "0-1"]
 [Section "1200-1600 A"]
 [WhiteId "RikkoFrikko#4222"]
 [BlackId "Dokako (C,L, -3)#6196"]
@@ -268,7 +268,7 @@
 [BlackElo "1407"]
 
 {[%SevillaID "6254"]}
-*
+0-1
 
 [Event "2023 January Dojo Classical"]
 [Site "chess.com"]
@@ -276,7 +276,7 @@
 [Round "1"]
 [White "scocre"]
 [Black "bgcube007"]
-[Result "*"]
+[Result "0-1"]
 [Section "1200-1600 A"]
 [WhiteId "screasm#4995"]
 [BlackId "bgcube007#2494"]
@@ -284,7 +284,7 @@
 [BlackElo "1355"]
 
 {[%SevillaID "6258"]}
-*
+0-1
 
 [Event "2023 January Dojo Classical"]
 [Site "chess.com"]
