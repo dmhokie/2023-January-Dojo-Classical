@@ -4,7 +4,7 @@
 [Round "1"]
 [White "Bestboiprime"]
 [Black "Mouselover"]
-[Result "*"]
+[Result "0-0"]
 [Section "u1200 B/C"]
 [WhiteId "Yoeri#6650"]
 [BlackId "Mouselover #6248"]
@@ -12,7 +12,7 @@
 [BlackElo "1180"]
 
 {[%SevillaID "6238"]}
-*
+0-0
 
 [Event "2023 January Dojo Classical"]
 [Site "chess.com"]
@@ -36,7 +36,7 @@
 [Round "1"]
 [White "Deactar"]
 [Black "Quincti1ius"]
-[Result "*"]
+[Result "0-0"]
 [Section "u1200 B/C"]
 [WhiteId "Deactar (L,C)#5187"]
 [BlackId "Quincti1ius#6217"]
@@ -44,7 +44,7 @@
 [BlackElo "1116"]
 
 {[%SevillaID "6240"]}
-*
+0-0
 
 [Event "2023 January Dojo Classical"]
 [Site "chess.com"]
@@ -84,7 +84,7 @@
 [Round "1"]
 [White "QSophie"]
 [Black "Clarkp56"]
-[Result "*"]
+[Result "1-0"]
 [Section "u1200 B/C"]
 [WhiteId "SophieB#9183"]
 [BlackId "Clarkp56(#9024)"]
@@ -92,6 +92,6 @@
 [BlackElo "838"]
 
 {[%SevillaID "6243"]}
-*
+1-0
 
 

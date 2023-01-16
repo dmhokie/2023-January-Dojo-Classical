@@ -36,7 +36,7 @@
 [Round "1"]
 [White "BenHaggis"]
 [Black "Na4olean"]
-[Result "*"]
+[Result "1-0"]
 [Section "u1200 A"]
 [WhiteId "BenHaggis (L,C, UTC-5)#6021"]
 [BlackId "Na4olean#6091"]
@@ -44,7 +44,7 @@
 [BlackElo "1086"]
 
 {[%SevillaID "6224"]}
-*
+1-0
 
 [Event "2023 January Dojo Classical"]
 [Site "chess.com"]
@@ -100,7 +100,7 @@
 [Round "1"]
 [White "davisas1998"]
 [Black "slixperi"]
-[Result "*"]
+[Result "0-0"]
 [Section "u1200 A"]
 [WhiteId "Alex D#6020"]
 [BlackId "slixperi#1351"]
@@ -108,7 +108,7 @@
 [BlackElo "1150"]
 
 {[%SevillaID "6222"]}
-*
+0-0
 
 [Event "2023 January Dojo Classical"]
 [Site "chess.com"]
@@ -132,7 +132,7 @@
 [Round "1"]
 [White "dkoufos"]
 [Black "catesta"]
-[Result "*"]
+[Result "0-0"]
 [Section "u1200 A"]
 [WhiteId "omegadave#9057"]
 [BlackId "TaylorCates"]
@@ -140,7 +140,7 @@
 [BlackElo "1154"]
 
 {[%SevillaID "6221"]}
-*
+0-0
 
 [Event "2023 January Dojo Classical"]
 [Site "chess.com"]

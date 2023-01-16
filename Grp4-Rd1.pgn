@@ -36,7 +36,7 @@
 [Round "1"]
 [White "LaNeraTorre"]
 [Black "kauberdi"]
-[Result "*"]
+[Result "0-1"]
 [Section "1200-1600 B/C"]
 [WhiteId "LaNeraTorre#9647"]
 [BlackId "kauberdi#4599"]
@@ -44,7 +44,7 @@
 [BlackElo "1320"]
 
 {[%SevillaID "6274"]}
-*
+0-1
 
 [Event "2023 January Dojo Classical"]
 [Site "chess.com"]
@@ -67,7 +67,7 @@
 [Date "2023.01.09"]
 [Round "1"]
 [White "MarianTicala"]
-[Black "O2 AC"]
+[Black "InvincibleYogurt"]
 [Result "0-1"]
 [Section "1200-1600 B/C"]
 [WhiteId "xmicxmare#6002"]
@@ -84,7 +84,7 @@
 [Round "1"]
 [White "NikosOikou"]
 [Black "Nestfluechter"]
-[Result "*"]
+[Result "0-1"]
 [Section "1200-1600 B/C"]
 [WhiteId "nikos#6378"]
 [BlackId "Nestfluechter#1062"]
@@ -92,7 +92,7 @@
 [BlackElo "1254"]
 
 {[%SevillaID "6276"]}
-*
+0-1
 
 [Event "2023 January Dojo Classical"]
 [Site "chess.com"]
@@ -100,7 +100,7 @@
 [Round "1"]
 [White "ovalfester3164"]
 [Black "Eydallin"]
-[Result "*"]
+[Result "0-0"]
 [Section "1200-1600 B/C"]
 [WhiteId "ray.jbrmC3#5180"]
 [BlackId "Chabi#7773"]
@@ -108,7 +108,7 @@
 [BlackElo "1346"]
 
 {[%SevillaID "6272"]}
-*
+0-0
 
 [Event "2023 January Dojo Classical"]
 [Site "chess.com"]
@@ -132,7 +132,7 @@
 [Round "1"]
 [White "pantsi98"]
 [Black "azurata"]
-[Result "*"]
+[Result "0-0"]
 [Section "1200-1600 B/C"]
 [WhiteId "pantsi#7205"]
 [BlackId "ZeeSteen#2143"]
@@ -140,7 +140,7 @@
 [BlackElo "1480"]
 
 {[%SevillaID "6267"]}
-*
+0-0
 
 [Event "2023 January Dojo Classical"]
 [Site "chess.com"]
@@ -164,7 +164,7 @@
 [Round "1"]
 [White "SafuyaRedemptionArc"]
 [Black "rubenrodrigues"]
-[Result "*"]
+[Result "1-0"]
 [Section "1200-1600 B/C"]
 [WhiteId "Safuya#7702"]
 [BlackId "captain caralho#3969"]
@@ -172,7 +172,7 @@
 [BlackElo "1400"]
 
 {[%SevillaID "6269"]}
-*
+1-0
 
 [Event "2023 January Dojo Classical"]
 [Site "chess.com"]
@@ -196,7 +196,7 @@
 [Round "1"]
 [White "vmaltezos"]
 [Black "Bawszachy"]
-[Result "*"]
+[Result "1-0"]
 [Section "1200-1600 B/C"]
 [WhiteId "vmaltezos#2951"]
 [BlackId "Bartosz#"]
@@ -204,6 +204,6 @@
 [BlackElo "1400"]
 
 {[%SevillaID "6270"]}
-*
+1-0
 
 

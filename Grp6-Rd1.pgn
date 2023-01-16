@@ -2,230 +2,6 @@
 [Site "chess.com"]
 [Date "2023.01.09"]
 [Round "1"]
-[White "298pwns"]
-[Black "Rhysszz"]
-[Result "1-0"]
-[Section "1600+ B/C"]
-[WhiteId "Lief#6826"]
-[BlackId "Rhysszz#2810"]
-[WhiteElo "1717"]
-[BlackElo "1750"]
-
-{[%SevillaID "6329"]}
-1-0
-
-[Event "2023 January Dojo Classical"]
-[Site "chess.com"]
-[Date "2023.01.09"]
-[Round "1"]
-[White "Ailuropoda"]
-[Black "headcanon"]
-[Result "0-1"]
-[Section "1600+ B/C"]
-[WhiteId "loei#0166"]
-[BlackId "headcanon#2403"]
-[WhiteElo "1820"]
-[BlackElo "1789"]
-
-{[%SevillaID "6326"]}
-0-1
-
-[Event "2023 January Dojo Classical"]
-[Site "chess.com"]
-[Date "2023.01.09"]
-[Round "1"]
-[White "alexvv2493"]
-[Black "Obsi314"]
-[Result "1-0"]
-[Section "1600+ B/C"]
-[WhiteId "alexvv24 #4577"]
-[BlackId "Obsi314#1392"]
-[WhiteElo "1740"]
-[BlackElo "1725"]
-
-{[%SevillaID "6330"]}
-1-0
-
-[Event "2023 January Dojo Classical"]
-[Site "chess.com"]
-[Date "2023.01.09"]
-[Round "1"]
-[White "Anthammer"]
-[Black "simoooonb"]
-[Result "*"]
-[Section "1600+ B/C"]
-[WhiteId "Anthammer"]
-[BlackId "Pas Simon#7417"]
-[WhiteElo "1660"]
-[BlackElo "1657"]
-
-{[%SevillaID "6334"]}
-*
-
-[Event "2023 January Dojo Classical"]
-[Site "chess.com"]
-[Date "2023.01.09"]
-[Round "1"]
-[White "Cartier tank"]
-[Black "mrbenoni"]
-[Result "*"]
-[Section "1600+ B/C"]
-[WhiteId "Cartier_tank(C)#3152"]
-[BlackId "lucar#2053"]
-[WhiteElo "1876"]
-[BlackElo "1869"]
-
-{[%SevillaID "6324"]}
-*
-
-[Event "2023 January Dojo Classical"]
-[Site "chess.com"]
-[Date "2023.01.09"]
-[Round "1"]
-[White "Chesspirate Channel"]
-[Black "Wmiltti"]
-[Result "*"]
-[Section "1600+ B/C"]
-[WhiteId "Chesspirate_Channel"]
-[BlackId "wmiltti#1751"]
-[WhiteElo "2284"]
-[BlackElo "2223"]
-
-{[%SevillaID "6319"]}
-*
-
-[Event "2023 January Dojo Classical"]
-[Site "chess.com"]
-[Date "2023.01.09"]
-[Round "1"]
-[White "constable reggie"]
-[Black "eihc93"]
-[Result "1/2-1/2"]
-[Section "1600+ B/C"]
-[WhiteId "constablereggie#2120"]
-[BlackId "eclark#1496"]
-[WhiteElo "1645"]
-[BlackElo "1621"]
-
-{[%SevillaID "6335"]}
-1/2-1/2
-
-[Event "2023 January Dojo Classical"]
-[Site "chess.com"]
-[Date "2023.01.09"]
-[Round "1"]
-[White "DominanterNudelesser"]
-[Black "jathor123"]
-[Result "0-1"]
-[Section "1600+ B/C"]
-[WhiteId "coldgreen#2743"]
-[BlackId "jathor123(C, +1)#3985"]
-[WhiteElo "1767"]
-[BlackElo "1784"]
-
-{[%SevillaID "6327"]}
-0-1
-
-[Event "2023 January Dojo Classical"]
-[Site "chess.com"]
-[Date "2023.01.09"]
-[Round "1"]
-[White "FlippyDolphin"]
-[Black "ploddingmuller5000"]
-[Result "0-1"]
-[Section "1600+ B/C"]
-[WhiteId "FlippyTemphin#3019"]
-[BlackId "#theorangutanyourang"]
-[WhiteElo "1610"]
-[BlackElo "1704"]
-
-{[%SevillaID "6332"]}
-0-1
-
-[Event "2023 January Dojo Classical"]
-[Site "chess.com"]
-[Date "2023.01.09"]
-[Round "1"]
-[White "HJYungNick"]
-[Black "kaznelra"]
-[Result "*"]
-[Section "1600+ B/C"]
-[WhiteId "Nick732#0453"]
-[BlackId "kkarl#4474"]
-[WhiteElo "2055"]
-[BlackElo "2426"]
-
-{[%SevillaID "6318"]}
-*
-
-[Event "2023 January Dojo Classical"]
-[Site "chess.com"]
-[Date "2023.01.09"]
-[Round "1"]
-[White "Invincible david"]
-[Black "m1rk0"]
-[Result "1-0"]
-[Section "1600+ B/C"]
-[WhiteId "Invincible"]
-[BlackId "#m1rk0"]
-[WhiteElo "1724"]
-[BlackElo "1720"]
-
-{[%SevillaID "6331"]}
-1-0
-
-[Event "2023 January Dojo Classical"]
-[Site "chess.com"]
-[Date "2023.01.09"]
-[Round "1"]
-[White "KhaledAmir21"]
-[Black "dekkard79"]
-[Result "1-0"]
-[Section "1600+ B/C"]
-[WhiteId "KhaledAmir#8503"]
-[BlackId "dekkard#8691"]
-[WhiteElo "1700"]
-[BlackElo "1671"]
-
-{[%SevillaID "6333"]}
-1-0
-
-[Event "2023 January Dojo Classical"]
-[Site "chess.com"]
-[Date "2023.01.09"]
-[Round "1"]
-[White "Leverq"]
-[Black "DadofZak"]
-[Result "0-1"]
-[Section "1600+ B/C"]
-[WhiteId "Leverq#4022"]
-[BlackId "DadofZak(C,+1)#5868"]
-[WhiteElo "1613"]
-[BlackElo "1600"]
-
-{[%SevillaID "6336"]}
-0-1
-
-[Event "2023 January Dojo Classical"]
-[Site "chess.com"]
-[Date "2023.01.09"]
-[Round "1"]
-[White "loanedpawn"]
-[Black "ManniBanane"]
-[Result "0-1"]
-[Section "1600+ B/C"]
-[WhiteId "#Loanedpawn"]
-[BlackId "Mannibanane#8773"]
-[WhiteElo "2020"]
-[BlackElo "2032"]
-
-{[%SevillaID "6320"]}
-0-1
-
-[Event "2023 January Dojo Classical"]
-[Site "chess.com"]
-[Date "2023.01.09"]
-[Round "1"]
 [White "lux-kineck"]
 [Black "bwise23"]
 [Result "0-1"]
@@ -236,38 +12,6 @@
 [BlackElo "1753"]
 
 {[%SevillaID "6328"]}
-0-1
-
-[Event "2023 January Dojo Classical"]
-[Site "chess.com"]
-[Date "2023.01.09"]
-[Round "1"]
-[White "MasterTheBlaster2010"]
-[Black "dan shields"]
-[Result "1-0"]
-[Section "1600+ B/C"]
-[WhiteId "SreekumarKC#2119"]
-[BlackId "#danshields9606"]
-[WhiteElo "1787"]
-[BlackElo "1914"]
-
-{[%SevillaID "6323"]}
-1-0
-
-[Event "2023 January Dojo Classical"]
-[Site "chess.com"]
-[Date "2023.01.09"]
-[Round "1"]
-[White "miskobgd"]
-[Black "Pre-Successful"]
-[Result "0-1"]
-[Section "1600+ B/C"]
-[WhiteId "miskobgd#0509"]
-[BlackId "MaximumDerek#9119"]
-[WhiteElo "1922"]
-[BlackElo "1966"]
-
-{[%SevillaID "6322"]}
 0-1
 
 [Event "2023 January Dojo Classical"]
@@ -290,6 +34,150 @@
 [Site "chess.com"]
 [Date "2023.01.09"]
 [Round "1"]
+[White "Leverq"]
+[Black "DadofZak"]
+[Result "0-1"]
+[Section "1600+ B/C"]
+[WhiteId "Leverq#4022"]
+[BlackId "DadofZak(C,+1)#5868"]
+[WhiteElo "1613"]
+[BlackElo "1600"]
+
+{[%SevillaID "6336"]}
+0-1
+
+[Event "2023 January Dojo Classical"]
+[Site "chess.com"]
+[Date "2023.01.09"]
+[Round "1"]
+[White "MasterTheBlaster2010"]
+[Black "dan shields"]
+[Result "1-0"]
+[Section "1600+ B/C"]
+[WhiteId "SreekumarKC#2119"]
+[BlackId "#danshields9606"]
+[WhiteElo "1787"]
+[BlackElo "1914"]
+
+{[%SevillaID "6323"]}
+1-0
+
+[Event "2023 January Dojo Classical"]
+[Site "chess.com"]
+[Date "2023.01.09"]
+[Round "1"]
+[White "KhaledAmir21"]
+[Black "dekkard79"]
+[Result "1-0"]
+[Section "1600+ B/C"]
+[WhiteId "KhaledAmir#8503"]
+[BlackId "dekkard#8691"]
+[WhiteElo "1700"]
+[BlackElo "1671"]
+
+{[%SevillaID "6333"]}
+1-0
+
+[Event "2023 January Dojo Classical"]
+[Site "chess.com"]
+[Date "2023.01.09"]
+[Round "1"]
+[White "constable reggie"]
+[Black "eihc93"]
+[Result "1/2-1/2"]
+[Section "1600+ B/C"]
+[WhiteId "constablereggie#2120"]
+[BlackId "eclark#1496"]
+[WhiteElo "1645"]
+[BlackElo "1621"]
+
+{[%SevillaID "6335"]}
+1/2-1/2
+
+[Event "2023 January Dojo Classical"]
+[Site "chess.com"]
+[Date "2023.01.09"]
+[Round "1"]
+[White "Ailuropoda"]
+[Black "headcanon"]
+[Result "0-1"]
+[Section "1600+ B/C"]
+[WhiteId "loei#0166"]
+[BlackId "headcanon#2403"]
+[WhiteElo "1820"]
+[BlackElo "1789"]
+
+{[%SevillaID "6326"]}
+0-1
+
+[Event "2023 January Dojo Classical"]
+[Site "chess.com"]
+[Date "2023.01.09"]
+[Round "1"]
+[White "DominanterNudelesser"]
+[Black "jathor123"]
+[Result "0-1"]
+[Section "1600+ B/C"]
+[WhiteId "coldgreen#2743"]
+[BlackId "jathor123(C, +1)#3985"]
+[WhiteElo "1767"]
+[BlackElo "1784"]
+
+{[%SevillaID "6327"]}
+0-1
+
+[Event "2023 January Dojo Classical"]
+[Site "chess.com"]
+[Date "2023.01.09"]
+[Round "1"]
+[White "HJYungNick"]
+[Black "kaznelra"]
+[Result "0-0"]
+[Section "1600+ B/C"]
+[WhiteId "Nick732#0453"]
+[BlackId "kkarl#4474"]
+[WhiteElo "2055"]
+[BlackElo "2426"]
+
+{[%SevillaID "6318"]}
+0-0
+
+[Event "2023 January Dojo Classical"]
+[Site "chess.com"]
+[Date "2023.01.09"]
+[Round "1"]
+[White "Invincible david"]
+[Black "m1rk0"]
+[Result "1-0"]
+[Section "1600+ B/C"]
+[WhiteId "Invincible"]
+[BlackId "#m1rk0"]
+[WhiteElo "1724"]
+[BlackElo "1720"]
+
+{[%SevillaID "6331"]}
+1-0
+
+[Event "2023 January Dojo Classical"]
+[Site "chess.com"]
+[Date "2023.01.09"]
+[Round "1"]
+[White "loanedpawn"]
+[Black "ManniBanane"]
+[Result "0-1"]
+[Section "1600+ B/C"]
+[WhiteId "#Loanedpawn"]
+[BlackId "Mannibanane#8773"]
+[WhiteElo "2020"]
+[BlackElo "2032"]
+
+{[%SevillaID "6320"]}
+0-1
+
+[Event "2023 January Dojo Classical"]
+[Site "chess.com"]
+[Date "2023.01.09"]
+[Round "1"]
 [White "Pyrekike"]
 [Black "MerisVitija"]
 [Result "1-0"]
@@ -300,6 +188,118 @@
 [BlackElo "2007"]
 
 {[%SevillaID "6321"]}
+1-0
+
+[Event "2023 January Dojo Classical"]
+[Site "chess.com"]
+[Date "2023.01.09"]
+[Round "1"]
+[White "Cartier tank"]
+[Black "mrbenoni"]
+[Result "0-1"]
+[Section "1600+ B/C"]
+[WhiteId "Cartier_tank(C)#3152"]
+[BlackId "lucar#2053"]
+[WhiteElo "1876"]
+[BlackElo "1869"]
+
+{[%SevillaID "6324"]}
+0-1
+
+[Event "2023 January Dojo Classical"]
+[Site "chess.com"]
+[Date "2023.01.09"]
+[Round "1"]
+[White "alexvv2493"]
+[Black "Obsi314"]
+[Result "1-0"]
+[Section "1600+ B/C"]
+[WhiteId "alexvv24 #4577"]
+[BlackId "Obsi314#1392"]
+[WhiteElo "1740"]
+[BlackElo "1725"]
+
+{[%SevillaID "6330"]}
+1-0
+
+[Event "2023 January Dojo Classical"]
+[Site "chess.com"]
+[Date "2023.01.09"]
+[Round "1"]
+[White "FlippyDolphin"]
+[Black "ploddingmuller5000"]
+[Result "0-1"]
+[Section "1600+ B/C"]
+[WhiteId "FlippyTemphin#3019"]
+[BlackId "#theorangutanyourang"]
+[WhiteElo "1610"]
+[BlackElo "1704"]
+
+{[%SevillaID "6332"]}
+0-1
+
+[Event "2023 January Dojo Classical"]
+[Site "chess.com"]
+[Date "2023.01.09"]
+[Round "1"]
+[White "miskobgd"]
+[Black "Pre-Successful"]
+[Result "0-1"]
+[Section "1600+ B/C"]
+[WhiteId "miskobgd#0509"]
+[BlackId "MaximumDerek#9119"]
+[WhiteElo "1922"]
+[BlackElo "1966"]
+
+{[%SevillaID "6322"]}
+0-1
+
+[Event "2023 January Dojo Classical"]
+[Site "chess.com"]
+[Date "2023.01.09"]
+[Round "1"]
+[White "298pwns"]
+[Black "Rhysszz"]
+[Result "1-0"]
+[Section "1600+ B/C"]
+[WhiteId "Lief#6826"]
+[BlackId "Rhysszz#2810"]
+[WhiteElo "1717"]
+[BlackElo "1750"]
+
+{[%SevillaID "6329"]}
+1-0
+
+[Event "2023 January Dojo Classical"]
+[Site "chess.com"]
+[Date "2023.01.09"]
+[Round "1"]
+[White "Anthammer"]
+[Black "simoooonb"]
+[Result "0-0"]
+[Section "1600+ B/C"]
+[WhiteId "Anthammer"]
+[BlackId "Pas Simon#7417"]
+[WhiteElo "1660"]
+[BlackElo "1657"]
+
+{[%SevillaID "6334"]}
+0-0
+
+[Event "2023 January Dojo Classical"]
+[Site "chess.com"]
+[Date "2023.01.09"]
+[Round "1"]
+[White "Chesspirate Channel"]
+[Black "Wmiltti"]
+[Result "1-0"]
+[Section "1600+ B/C"]
+[WhiteId "Chesspirate_Channel"]
+[BlackId "wmiltti#1751"]
+[WhiteElo "2284"]
+[BlackElo "2223"]
+
+{[%SevillaID "6319"]}
 1-0
 
 
