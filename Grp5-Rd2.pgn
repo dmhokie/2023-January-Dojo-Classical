@@ -4,7 +4,7 @@
 [Round "2"]
 [White "agedwhitecheddar"]
 [Black "JackStenglein"]
-[Result "*"]
+[Result "1/2-1/2"]
 [Section "1600+ A"]
 [WhiteId "agedwhitecheddar#0198"]
 [BlackId "Heh13#5117"]
@@ -12,7 +12,7 @@
 [BlackElo "1655"]
 
 {[%SevillaID "6461"]}
-*
+1/2-1/2
 
 [Event "2023 January Dojo Classical"]
 [Site "chess.com"]
@@ -36,7 +36,7 @@
 [Round "2"]
 [White "alfbz"]
 [Black "matturen"]
-[Result "*"]
+[Result "0-1"]
 [Section "1600+ A"]
 [WhiteId "alfbz#7639"]
 [BlackId "matturen#4725"]
@@ -44,7 +44,7 @@
 [BlackElo "1730"]
 
 {[%SevillaID "6470"]}
-*
+0-1
 
 [Event "2023 January Dojo Classical"]
 [Site "chess.com"]
@@ -100,7 +100,7 @@
 [Round "2"]
 [White "Darth Guinness"]
 [Black "jose mena 123"]
-[Result "*"]
+[Result "0-1"]
 [Section "1600+ A"]
 [WhiteId "Darth_Guinness#6176"]
 [BlackId "jmena123#4680"]
@@ -108,7 +108,7 @@
 [BlackElo "1633"]
 
 {[%SevillaID "6480"]}
-*
+0-1
 
 [Event "2023 January Dojo Classical"]
 [Site "chess.com"]
@@ -132,7 +132,7 @@
 [Round "2"]
 [White "EchoWings"]
 [Black "joel cato"]
-[Result "*"]
+[Result "1-0"]
 [Section "1600+ A"]
 [WhiteId "Echo#8695"]
 [BlackId "joel_cato [Life Wins]#7861"]
@@ -140,7 +140,7 @@
 [BlackElo "1834"]
 
 {[%SevillaID "6477"]}
-*
+1-0
 
 [Event "2023 January Dojo Classical"]
 [Site "chess.com"]
@@ -148,7 +148,7 @@
 [Round "2"]
 [White "fhunfi"]
 [Black "FourOne1"]
-[Result "*"]
+[Result "1/2-1/2"]
 [Section "1600+ A"]
 [WhiteId "fhunfi#9571"]
 [BlackId "FourOne1#1161"]
@@ -156,7 +156,7 @@
 [BlackElo "1658"]
 
 {[%SevillaID "6471"]}
-*
+1/2-1/2
 
 [Event "2023 January Dojo Classical"]
 [Site "chess.com"]
@@ -180,7 +180,7 @@
 [Round "2"]
 [White "Lona Chess"]
 [Black "Mcdevio"]
-[Result "*"]
+[Result "0-1"]
 [Section "1600+ A"]
 [WhiteId "Lona_Chess#4121"]
 [BlackId "Mcdevio#7075"]
@@ -188,7 +188,7 @@
 [BlackElo "2006"]
 
 {[%SevillaID "6469"]}
-*
+0-1
 
 [Event "2023 January Dojo Classical"]
 [Site "chess.com"]
@@ -196,7 +196,7 @@
 [Round "2"]
 [White "mrbeaters"]
 [Black "onamonapia"]
-[Result "*"]
+[Result "1-0"]
 [Section "1600+ A"]
 [WhiteId "mrbeaters (C,L,+1)#1147"]
 [BlackId "???????#2939"]
@@ -204,7 +204,7 @@
 [BlackElo "1679"]
 
 {[%SevillaID "6464"]}
-*
+1-0
 
 [Event "2023 January Dojo Classical"]
 [Site "chess.com"]
@@ -212,7 +212,7 @@
 [Round "2"]
 [White "nfv1972"]
 [Black "morphyfanLL"]
-[Result "*"]
+[Result "0-1"]
 [Section "1600+ A"]
 [WhiteId "nfv18810#7881"]
 [BlackId "morphyfanLL#8385"]
@@ -220,7 +220,7 @@
 [BlackElo "1615"]
 
 {[%SevillaID "6479"]}
-*
+0-1
 
 [Event "2023 January Dojo Classical"]
 [Site "chess.com"]
@@ -244,7 +244,7 @@
 [Round "2"]
 [White "scradam"]
 [Black "FreddyPatzer"]
-[Result "*"]
+[Result "1-0"]
 [Section "1600+ A"]
 [WhiteId "DrWhiskers"]
 [BlackId "FreddyPatzer#4658"]
@@ -252,7 +252,7 @@
 [BlackElo "1623"]
 
 {[%SevillaID "6468"]}
-*
+1-0
 
 [Event "2023 January Dojo Classical"]
 [Site "chess.com"]
@@ -260,7 +260,7 @@
 [Round "2"]
 [White "SmallBrainPlays"]
 [Black "DuncanClotfelter"]
-[Result "*"]
+[Result "1-0"]
 [Section "1600+ A"]
 [WhiteId "Yeti#8414"]
 [BlackId "DuncanClotfelter#9283"]
@@ -268,7 +268,7 @@
 [BlackElo "1690"]
 
 {[%SevillaID "6473"]}
-*
+1-0
 
 [Event "2023 January Dojo Classical"]
 [Site "chess.com"]
@@ -276,7 +276,7 @@
 [Round "2"]
 [White "wslich"]
 [Black "gaqex"]
-[Result "*"]
+[Result "0-1"]
 [Section "1600+ A"]
 [WhiteId "wslich#7792"]
 [BlackId "dy8s#7762"]
@@ -284,7 +284,7 @@
 [BlackElo "1700"]
 
 {[%SevillaID "6466"]}
-*
+0-1
 
 [Event "2023 January Dojo Classical"]
 [Site "chess.com"]
@@ -292,7 +292,7 @@
 [Round "2"]
 [White "YouTube 24YrOldChessImpro"]
 [Black "mapview"]
-[Result "*"]
+[Result "1/2-1/2"]
 [Section "1600+ A"]
 [WhiteId "24YrOldChessImprover#5975"]
 [BlackId "mapview#5499"]
@@ -300,7 +300,7 @@
 [BlackElo "1888"]
 
 {[%SevillaID "6465"]}
-*
+1/2-1/2
 
 [Event "2023 January Dojo Classical"]
 [Site "chess.com"]
@@ -308,7 +308,7 @@
 [Round "2"]
 [White "Zondebok"]
 [Black "thevermonster"]
-[Result "*"]
+[Result "0-1"]
 [Section "1600+ A"]
 [WhiteId "Zondebok#0001"]
 [BlackId "Vermonster#9461"]
@@ -316,6 +316,6 @@
 [BlackElo "2107"]
 
 {[%SevillaID "6467"]}
-*
+0-1
 
 

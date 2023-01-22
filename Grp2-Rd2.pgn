@@ -4,7 +4,7 @@
 [Round "2"]
 [White "Clarkp56"]
 [Black "Artic42"]
-[Result "*"]
+[Result "0-1"]
 [Section "u1200 B/C"]
 [WhiteId "Clarkp56(#9024)"]
 [BlackId "Artic42#1076"]
@@ -12,7 +12,7 @@
 [BlackElo "1134"]
 
 {[%SevillaID "6406"]}
-*
+0-1
 
 [Event "2023 January Dojo Classical"]
 [Site "chess.com"]
@@ -20,7 +20,7 @@
 [Round "2"]
 [White "domvmd"]
 [Black "NowzGaming"]
-[Result "*"]
+[Result "0-1"]
 [Section "u1200 B/C"]
 [WhiteId "domvmd#3322"]
 [BlackId "NowzGaming#1469"]
@@ -28,7 +28,7 @@
 [BlackElo "1100"]
 
 {[%SevillaID "6400"]}
-*
+0-1
 
 [Event "2023 January Dojo Classical"]
 [Site "chess.com"]
@@ -36,7 +36,7 @@
 [Round "2"]
 [White "Ishmael75"]
 [Black "Djydjy22"]
-[Result "*"]
+[Result "0-1"]
 [Section "u1200 B/C"]
 [WhiteId "Ishmael75 (UTC+11)#6754"]
 [BlackId "Toni#9134"]
@@ -44,7 +44,7 @@
 [BlackElo "800"]
 
 {[%SevillaID "6403"]}
-*
+0-1
 
 [Event "2023 January Dojo Classical"]
 [Site "chess.com"]
@@ -68,7 +68,7 @@
 [Round "2"]
 [White "Oberlus Chinaski"]
 [Black "Deactar"]
-[Result "*"]
+[Result "1-0"]
 [Section "u1200 B/C"]
 [WhiteId "Oberlus_Chinaski (L,C, +1)#8167"]
 [BlackId "Deactar (L,C)#5187"]
@@ -76,7 +76,7 @@
 [BlackElo "1142"]
 
 {[%SevillaID "6405"]}
-*
+1-0
 
 [Event "2023 January Dojo Classical"]
 [Site "chess.com"]
@@ -84,7 +84,7 @@
 [Round "2"]
 [White "PepperChess"]
 [Black "BredellPeter"]
-[Result "*"]
+[Result "0-1"]
 [Section "u1200 B/C"]
 [WhiteId "PepperChess#6028"]
 [BlackId "PeterBredell#0610"]
@@ -92,7 +92,7 @@
 [BlackElo "1172"]
 
 {[%SevillaID "6402"]}
-*
+0-1
 
 [Event "2023 January Dojo Classical"]
 [Site "chess.com"]
@@ -116,7 +116,7 @@
 [Round "2"]
 [White "riptiondesc"]
 [Black "Mouselover"]
-[Result "*"]
+[Result "1-0"]
 [Section "u1200 B/C"]
 [WhiteId "riptiondesc#3977"]
 [BlackId "Mouselover #6248"]
@@ -124,7 +124,7 @@
 [BlackElo "1180"]
 
 {[%SevillaID "6407"]}
-*
+1-0
 
 [Event "2023 January Dojo Classical"]
 [Site "chess.com"]
@@ -132,7 +132,7 @@
 [Round "2"]
 [White "YogiBear07"]
 [Black "Bestboiprime"]
-[Result "*"]
+[Result "1/2-1/2"]
 [Section "u1200 B/C"]
 [WhiteId "J R#6732"]
 [BlackId "Yoeri#6650"]
@@ -140,6 +140,6 @@
 [BlackElo "1197"]
 
 {[%SevillaID "6408"]}
-*
+1/2-1/2
 
 

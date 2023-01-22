@@ -4,7 +4,7 @@
 [Round "2"]
 [White "aarondztan"]
 [Black "RetiForTrouble"]
-[Result "*"]
+[Result "0-1"]
 [Section "1200-1600 A"]
 [WhiteId "floristree#9772"]
 [BlackId "RetiForTrouble(C,-7)#6324"]
@@ -12,7 +12,7 @@
 [BlackElo "1458"]
 
 {[%SevillaID "6425"]}
-*
+0-1
 
 [Event "2023 January Dojo Classical"]
 [Site "chess.com"]
@@ -52,7 +52,7 @@
 [Round "2"]
 [White "cbggh"]
 [Black "Barnstorm"]
-[Result "*"]
+[Result "1-0"]
 [Section "1200-1600 A"]
 [WhiteId "Conor#6594"]
 [BlackId "Barnstorm#2520"]
@@ -60,7 +60,7 @@
 [BlackElo "1283"]
 
 {[%SevillaID "6423"]}
-*
+1-0
 
 [Event "2023 January Dojo Classical"]
 [Site "chess.com"]
@@ -84,7 +84,7 @@
 [Round "2"]
 [White "dnewp553"]
 [Black "Mtc66"]
-[Result "*"]
+[Result "0-1"]
 [Section "1200-1600 A"]
 [WhiteId "dnewport#4129"]
 [BlackId "Mtc66#4570"]
@@ -92,7 +92,7 @@
 [BlackElo "1473"]
 
 {[%SevillaID "6424"]}
-*
+0-1
 
 [Event "2023 January Dojo Classical"]
 [Site "chess.com"]
@@ -100,7 +100,7 @@
 [Round "2"]
 [White "dokako"]
 [Black "heathcliff chess"]
-[Result "*"]
+[Result "1-0"]
 [Section "1200-1600 A"]
 [WhiteId "Dokako (C,L, -3)#6196"]
 [BlackId "Heathgresham"]
@@ -108,7 +108,7 @@
 [BlackElo "1400"]
 
 {[%SevillaID "6417"]}
-*
+1-0
 
 [Event "2023 January Dojo Classical"]
 [Site "chess.com"]
@@ -116,7 +116,7 @@
 [Round "2"]
 [White "Domvaz97"]
 [Black "RikkoFrikko"]
-[Result "*"]
+[Result "0-1"]
 [Section "1200-1600 A"]
 [WhiteId "domvaz97 (C)#0691"]
 [BlackId "RikkoFrikko#4222"]
@@ -124,7 +124,7 @@
 [BlackElo "1412"]
 
 {[%SevillaID "6429"]}
-*
+0-1
 
 [Event "2023 January Dojo Classical"]
 [Site "chess.com"]
@@ -132,7 +132,7 @@
 [Round "2"]
 [White "e27182818284"]
 [Black "Cmalbert1"]
-[Result "*"]
+[Result "1-0"]
 [Section "1200-1600 A"]
 [WhiteId "Chas#9691"]
 [BlackId "cmalbert#3720"]
@@ -140,7 +140,7 @@
 [BlackElo "1370"]
 
 {[%SevillaID "6431"]}
-*
+1-0
 
 [Event "2023 January Dojo Classical"]
 [Site "chess.com"]
@@ -164,7 +164,7 @@
 [Round "2"]
 [White "Ginger Bread Chess"]
 [Black "Petrefaxx"]
-[Result "*"]
+[Result "0-1"]
 [Section "1200-1600 A"]
 [WhiteId "Ginger_Bread_Chess#0204"]
 [BlackId "ScottL"]
@@ -172,7 +172,7 @@
 [BlackElo "1578"]
 
 {[%SevillaID "6409"]}
-*
+0-1
 
 [Event "2023 January Dojo Classical"]
 [Site "chess.com"]
@@ -196,7 +196,7 @@
 [Round "2"]
 [White "JeffGirlDad"]
 [Black "TylerJakes"]
-[Result "*"]
+[Result "1/2-1/2"]
 [Section "1200-1600 A"]
 [WhiteId "algenaut #7657"]
 [BlackId "Aidan McRae#3786"]
@@ -204,7 +204,7 @@
 [BlackElo "1350"]
 
 {[%SevillaID "6419"]}
-*
+1/2-1/2
 
 [Event "2023 January Dojo Classical"]
 [Site "chess.com"]
@@ -212,7 +212,7 @@
 [Round "2"]
 [White "KlutchEZ"]
 [Black "Shoshonte"]
-[Result "*"]
+[Result "0-1"]
 [Section "1200-1600 A"]
 [WhiteId "FlamingCobra8#0813"]
 [BlackId "Sterling Wells#3937"]
@@ -220,7 +220,7 @@
 [BlackElo "1456"]
 
 {[%SevillaID "6420"]}
-*
+0-1
 
 [Event "2023 January Dojo Classical"]
 [Site "chess.com"]
@@ -228,7 +228,7 @@
 [Round "2"]
 [White "librocubiculartist"]
 [Black "smsilb"]
-[Result "*"]
+[Result "0-1"]
 [Section "1200-1600 A"]
 [WhiteId "LibroQ #9270"]
 [BlackId "why are we this#7010"]
@@ -236,7 +236,7 @@
 [BlackElo "1418"]
 
 {[%SevillaID "6416"]}
-*
+0-1
 
 [Event "2023 January Dojo Classical"]
 [Site "chess.com"]
@@ -260,7 +260,7 @@
 [Round "2"]
 [White "Pokervane"]
 [Black "SirBrenticus"]
-[Result "*"]
+[Result "1-0"]
 [Section "1200-1600 A"]
 [WhiteId "Pokervane#4011"]
 [BlackId "SirBrenticus#6372"]
@@ -268,7 +268,7 @@
 [BlackElo "1200"]
 
 {[%SevillaID "6410"]}
-*
+1-0
 
 [Event "2023 January Dojo Classical"]
 [Site "chess.com"]
@@ -276,7 +276,7 @@
 [Round "2"]
 [White "PolskiPower"]
 [Black "crooney314"]
-[Result "*"]
+[Result "1/2-1/2"]
 [Section "1200-1600 A"]
 [WhiteId "PolskiPower#6038"]
 [BlackId "charlie314#7930"]
@@ -284,7 +284,7 @@
 [BlackElo "1334"]
 
 {[%SevillaID "6428"]}
-*
+1/2-1/2
 
 [Event "2023 January Dojo Classical"]
 [Site "chess.com"]
@@ -308,7 +308,7 @@
 [Round "2"]
 [White "Raindog2"]
 [Black "dwayneinnashville"]
-[Result "*"]
+[Result "0-1"]
 [Section "1200-1600 A"]
 [WhiteId "Griff#5674"]
 [BlackId "dwayne.hoffman#1643"]
@@ -316,7 +316,7 @@
 [BlackElo "1330"]
 
 {[%SevillaID "6413"]}
-*
+0-1
 
 [Event "2023 January Dojo Classical"]
 [Site "chess.com"]
@@ -324,7 +324,7 @@
 [Round "2"]
 [White "sbmcmanus"]
 [Black "wonhitblunder"]
-[Result "*"]
+[Result "1-0"]
 [Section "1200-1600 A"]
 [WhiteId "sbmcmanus#0880"]
 [BlackId "BlunderMeister#3891"]
@@ -332,7 +332,7 @@
 [BlackElo "1500"]
 
 {[%SevillaID "6411"]}
-*
+1-0
 
 [Event "2023 January Dojo Classical"]
 [Site "chess.com"]
@@ -340,7 +340,7 @@
 [Round "2"]
 [White "scottfischbein"]
 [Black "GoDlyZor"]
-[Result "*"]
+[Result "0-1"]
 [Section "1200-1600 A"]
 [WhiteId "scottf2#4321"]
 [BlackId "Zor#7736"]
@@ -348,7 +348,7 @@
 [BlackElo "1482"]
 
 {[%SevillaID "6418"]}
-*
+0-1
 
 [Event "2023 January Dojo Classical"]
 [Site "chess.com"]
@@ -356,7 +356,7 @@
 [Round "2"]
 [White "sonderval"]
 [Black "davidCampolongo"]
-[Result "*"]
+[Result "1-0"]
 [Section "1200-1600 A"]
 [WhiteId "sonderval (CL-5)"]
 [BlackId "Warren#5908"]
@@ -364,6 +364,6 @@
 [BlackElo "1378"]
 
 {[%SevillaID "6421"]}
-*
+1-0
 
 

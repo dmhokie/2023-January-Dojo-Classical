@@ -6,7 +6,7 @@
 [Black "loanedpawn"]
 [Result "*"]
 [Section "1600+ B/C"]
-[WhiteId "Anthammer"]
+[WhiteId "Tank#3596"]
 [BlackId "#Loanedpawn"]
 [WhiteElo "1660"]
 [BlackElo "2020"]
@@ -20,7 +20,7 @@
 [Round "2"]
 [White "Beingbadatchess"]
 [Black "constable reggie"]
-[Result "*"]
+[Result "1-0"]
 [Section "1600+ B/C"]
 [WhiteId "Beingbadatchess#0811"]
 [BlackId "constablereggie#2120"]
@@ -28,7 +28,7 @@
 [BlackElo "1645"]
 
 {[%SevillaID "6556"]}
-*
+1-0
 
 [Event "2023 January Dojo Classical"]
 [Site "chess.com"]
@@ -36,7 +36,7 @@
 [Round "2"]
 [White "bwise23"]
 [Black "Pauli3141"]
-[Result "*"]
+[Result "1/2-1/2"]
 [Section "1600+ B/C"]
 [WhiteId "JackSparrow#2553"]
 [BlackId "Pauli#4131"]
@@ -44,7 +44,7 @@
 [BlackElo "1866"]
 
 {[%SevillaID "6551"]}
-*
+1/2-1/2
 
 [Event "2023 January Dojo Classical"]
 [Site "chess.com"]
@@ -68,7 +68,7 @@
 [Round "2"]
 [White "DadofZak"]
 [Black "Pyrekike"]
-[Result "*"]
+[Result "0-1"]
 [Section "1600+ B/C"]
 [WhiteId "DadofZak(C,+1)#5868"]
 [BlackId "Pyrek#6624"]
@@ -76,7 +76,7 @@
 [BlackElo "1999"]
 
 {[%SevillaID "6548"]}
-*
+0-1
 
 [Event "2023 January Dojo Classical"]
 [Site "chess.com"]
@@ -84,7 +84,7 @@
 [Round "2"]
 [White "dan shields"]
 [Black "kaznelra"]
-[Result "*"]
+[Result "1-0"]
 [Section "1600+ B/C"]
 [WhiteId "#danshields9606"]
 [BlackId "kkarl#4474"]
@@ -92,7 +92,7 @@
 [BlackElo "2426"]
 
 {[%SevillaID "6563"]}
-*
+1-0
 
 [Event "2023 January Dojo Classical"]
 [Site "chess.com"]
@@ -100,7 +100,7 @@
 [Round "2"]
 [White "davesho11"]
 [Black "MasterTheBlaster2010"]
-[Result "*"]
+[Result "1-0"]
 [Section "1600+ B/C"]
 [WhiteId "davesho #5085"]
 [BlackId "SreekumarKC#2119"]
@@ -108,7 +108,7 @@
 [BlackElo "1787"]
 
 {[%SevillaID "6555"]}
-*
+1-0
 
 [Event "2023 January Dojo Classical"]
 [Site "chess.com"]
@@ -116,7 +116,7 @@
 [Round "2"]
 [White "dekkard79"]
 [Black "miskobgd"]
-[Result "*"]
+[Result "0-1"]
 [Section "1600+ B/C"]
 [WhiteId "dekkard#8691"]
 [BlackId "miskobgd#0509"]
@@ -124,7 +124,7 @@
 [BlackElo "1922"]
 
 {[%SevillaID "6562"]}
-*
+0-1
 
 [Event "2023 January Dojo Classical"]
 [Site "chess.com"]
@@ -148,7 +148,7 @@
 [Round "2"]
 [White "Grittipanz"]
 [Black "Kingphil DSA"]
-[Result "*"]
+[Result "0-1"]
 [Section "1600+ B/C"]
 [WhiteId "Jakob #2580"]
 [BlackId "kingphil65#8465"]
@@ -156,7 +156,7 @@
 [BlackElo "1886"]
 
 {[%SevillaID "6557"]}
-*
+0-1
 
 [Event "2023 January Dojo Classical"]
 [Site "chess.com"]
@@ -164,7 +164,7 @@
 [Round "2"]
 [White "headcanon"]
 [Black "jathor123"]
-[Result "*"]
+[Result "1-0"]
 [Section "1600+ B/C"]
 [WhiteId "headcanon#2403"]
 [BlackId "jathor123(C, +1)#3985"]
@@ -172,7 +172,7 @@
 [BlackElo "1784"]
 
 {[%SevillaID "6552"]}
-*
+1-0
 
 [Event "2023 January Dojo Classical"]
 [Site "chess.com"]
@@ -196,7 +196,7 @@
 [Round "2"]
 [White "m1rk0"]
 [Black "Cartier tank"]
-[Result "*"]
+[Result "0-1"]
 [Section "1600+ B/C"]
 [WhiteId "#m1rk0"]
 [BlackId "Cartier_tank(C)#3152"]
@@ -204,7 +204,7 @@
 [BlackElo "1876"]
 
 {[%SevillaID "6564"]}
-*
+0-1
 
 [Event "2023 January Dojo Classical"]
 [Site "chess.com"]
@@ -212,7 +212,7 @@
 [Round "2"]
 [White "ManniBanane"]
 [Black "KhaledAmir21"]
-[Result "*"]
+[Result "1-0"]
 [Section "1600+ B/C"]
 [WhiteId "Mannibanane#8773"]
 [BlackId "KhaledAmir#8503"]
@@ -220,7 +220,7 @@
 [BlackElo "1700"]
 
 {[%SevillaID "6547"]}
-*
+1-0
 
 [Event "2023 January Dojo Classical"]
 [Site "chess.com"]
@@ -228,7 +228,7 @@
 [Round "2"]
 [White "MerisVitija"]
 [Black "Leverq"]
-[Result "*"]
+[Result "1-0"]
 [Section "1600+ B/C"]
 [WhiteId "MerisVitija#0809"]
 [BlackId "Leverq#4022"]
@@ -236,7 +236,7 @@
 [BlackElo "1613"]
 
 {[%SevillaID "6561"]}
-*
+1-0
 
 [Event "2023 January Dojo Classical"]
 [Site "chess.com"]
@@ -260,7 +260,7 @@
 [Round "2"]
 [White "Obsi314"]
 [Black "Ailuropoda"]
-[Result "*"]
+[Result "1-0"]
 [Section "1600+ B/C"]
 [WhiteId "Obsi314#1392"]
 [BlackId "loei#0166"]
@@ -268,7 +268,7 @@
 [BlackElo "1820"]
 
 {[%SevillaID "6566"]}
-*
+1-0
 
 [Event "2023 January Dojo Classical"]
 [Site "chess.com"]
@@ -276,7 +276,7 @@
 [Round "2"]
 [White "ploddingmuller5000"]
 [Black "298pwns"]
-[Result "*"]
+[Result "1-0"]
 [Section "1600+ B/C"]
 [WhiteId "#theorangutanyourang"]
 [BlackId "Lief#6826"]
@@ -284,7 +284,7 @@
 [BlackElo "1717"]
 
 {[%SevillaID "6553"]}
-*
+1-0
 
 [Event "2023 January Dojo Classical"]
 [Site "chess.com"]
@@ -292,7 +292,7 @@
 [Round "2"]
 [White "Pre-Successful"]
 [Black "Invincible david"]
-[Result "*"]
+[Result "1-0"]
 [Section "1600+ B/C"]
 [WhiteId "MaximumDerek#9119"]
 [BlackId "Invincible"]
@@ -300,7 +300,7 @@
 [BlackElo "1724"]
 
 {[%SevillaID "6549"]}
-*
+1-0
 
 [Event "2023 January Dojo Classical"]
 [Site "chess.com"]
@@ -324,7 +324,7 @@
 [Round "2"]
 [White "yaR 33"]
 [Black "wocash"]
-[Result "*"]
+[Result "1-0"]
 [Section "1600+ B/C"]
 [WhiteId "yaR_33#0033"]
 [BlackId "wocash#0760"]
@@ -332,6 +332,6 @@
 [BlackElo "1723"]
 
 {[%SevillaID "6558"]}
-*
+1-0
 
 
