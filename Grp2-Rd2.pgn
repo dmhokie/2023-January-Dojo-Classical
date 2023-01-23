@@ -52,7 +52,7 @@
 [Round "2"]
 [White "mentosovitz"]
 [Black "Quincti1ius"]
-[Result "*"]
+[Result "0-0"]
 [Section "u1200 B/C"]
 [WhiteId "mentosovitz #2211"]
 [BlackId "Quincti1ius#6217"]
@@ -60,7 +60,7 @@
 [BlackElo "1116"]
 
 {[%SevillaID "6404"]}
-*
+0-0
 
 [Event "2023 January Dojo Classical"]
 [Site "chess.com"]
@@ -100,7 +100,7 @@
 [Round "2"]
 [White "QSophie"]
 [Black "Orcogigi"]
-[Result "*"]
+[Result "0-1"]
 [Section "u1200 B/C"]
 [WhiteId "SophieB#9183"]
 [BlackId "Orcogigi (C,L,+2)#1312"]
@@ -108,7 +108,7 @@
 [BlackElo "1092"]
 
 {[%SevillaID "6401"]}
-*
+0-1
 
 [Event "2023 January Dojo Classical"]
 [Site "chess.com"]

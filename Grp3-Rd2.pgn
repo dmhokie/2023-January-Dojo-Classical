@@ -20,7 +20,7 @@
 [Round "2"]
 [White "auron8"]
 [Black "montgomery3721"]
-[Result "*"]
+[Result "0-0"]
 [Section "1200-1600 A"]
 [WhiteId "auron8#3349"]
 [BlackId "montgomery3721 (C, -4)#5317"]
@@ -28,7 +28,7 @@
 [BlackElo "1309"]
 
 {[%SevillaID "6427"]}
-*
+0-0
 
 [Event "2023 January Dojo Classical"]
 [Site "chess.com"]
@@ -36,7 +36,7 @@
 [Round "2"]
 [White "bgcube007"]
 [Black "Onepeelsam"]
-[Result "*"]
+[Result "1/2-1/2"]
 [Section "1200-1600 A"]
 [WhiteId "bgcube007#2494"]
 [BlackId "BelovedBookkeeper#9758"]
@@ -44,7 +44,7 @@
 [BlackElo "1425"]
 
 {[%SevillaID "6415"]}
-*
+1/2-1/2
 
 [Event "2023 January Dojo Classical"]
 [Site "chess.com"]
@@ -68,7 +68,7 @@
 [Round "2"]
 [White "ChamyChess"]
 [Black "am percival"]
-[Result "*"]
+[Result "1-0"]
 [Section "1200-1600 A"]
 [WhiteId "The Untouchable #9550"]
 [BlackId "am_percival#2572"]
@@ -76,7 +76,7 @@
 [BlackElo "1365"]
 
 {[%SevillaID "6414"]}
-*
+1-0
 
 [Event "2023 January Dojo Classical"]
 [Site "chess.com"]
@@ -148,7 +148,7 @@
 [Round "2"]
 [White "floogster"]
 [Black "blakeg77"]
-[Result "*"]
+[Result "0-0"]
 [Section "1200-1600 A"]
 [WhiteId "floogster #9499"]
 [BlackId "blakeg77#8560"]
@@ -156,7 +156,7 @@
 [BlackElo "1450"]
 
 {[%SevillaID "6426"]}
-*
+0-0
 
 [Event "2023 January Dojo Classical"]
 [Site "chess.com"]
@@ -180,7 +180,7 @@
 [Round "2"]
 [White "Itzael ML"]
 [Black "scocre"]
-[Result "*"]
+[Result "1-0"]
 [Section "1200-1600 A"]
 [WhiteId "Itzael#3800"]
 [BlackId "screasm#4995"]
@@ -188,7 +188,7 @@
 [BlackElo "1358"]
 
 {[%SevillaID "6430"]}
-*
+1-0
 
 [Event "2023 January Dojo Classical"]
 [Site "chess.com"]
@@ -244,7 +244,7 @@
 [Round "2"]
 [White "milkreator"]
 [Black "doeshoodratstuff"]
-[Result "*"]
+[Result "0-0"]
 [Section "1200-1600 A"]
 [WhiteId "milkreator#1879"]
 [BlackId "doeshoodratstuff#2749"]
@@ -252,7 +252,7 @@
 [BlackElo "1249"]
 
 {[%SevillaID "6422"]}
-*
+0-0
 
 [Event "2023 January Dojo Classical"]
 [Site "chess.com"]
@@ -292,7 +292,7 @@
 [Round "2"]
 [White "ProfessionalPatzer2"]
 [Black "gpetris"]
-[Result "*"]
+[Result "1/2-1/2"]
 [Section "1200-1600 A"]
 [WhiteId "ProfessionalPatzer #4398"]
 [BlackId "gpetris#1791"]
@@ -300,7 +300,7 @@
 [BlackElo "1227"]
 
 {[%SevillaID "6412"]}
-*
+1/2-1/2
 
 [Event "2023 January Dojo Classical"]
 [Site "chess.com"]

@@ -4,7 +4,7 @@
 [Round "2"]
 [White "Anthammer"]
 [Black "loanedpawn"]
-[Result "*"]
+[Result "0-1"]
 [Section "1600+ B/C"]
 [WhiteId "Tank#3596"]
 [BlackId "#Loanedpawn"]
@@ -12,7 +12,7 @@
 [BlackElo "2020"]
 
 {[%SevillaID "6560"]}
-*
+0-1
 
 [Event "2023 January Dojo Classical"]
 [Site "chess.com"]
@@ -52,7 +52,7 @@
 [Round "2"]
 [White "chessmonger42"]
 [Black "lux-kineck"]
-[Result "*"]
+[Result "1-0"]
 [Section "1600+ B/C"]
 [WhiteId "chessmonger42#3779"]
 [BlackId "LUX-KINECK #3261"]
@@ -60,7 +60,7 @@
 [BlackElo "1752"]
 
 {[%SevillaID "6565"]}
-*
+1-0
 
 [Event "2023 January Dojo Classical"]
 [Site "chess.com"]
@@ -132,7 +132,7 @@
 [Round "2"]
 [White "eihc93"]
 [Black "Chesspirate Channel"]
-[Result "*"]
+[Result "0-0"]
 [Section "1600+ B/C"]
 [WhiteId "eclark#1496"]
 [BlackId "Chesspirate_Channel"]
@@ -140,7 +140,7 @@
 [BlackElo "2284"]
 
 {[%SevillaID "6554"]}
-*
+0-0
 
 [Event "2023 January Dojo Classical"]
 [Site "chess.com"]
@@ -180,7 +180,7 @@
 [Round "2"]
 [White "HJYungNick"]
 [Black "gerardpike"]
-[Result "*"]
+[Result "0-0"]
 [Section "1600+ B/C"]
 [WhiteId "Nick732#0453"]
 [BlackId "gerardpike"]
@@ -188,7 +188,7 @@
 [BlackElo "1700"]
 
 {[%SevillaID "6559"]}
-*
+0-0
 
 [Event "2023 January Dojo Classical"]
 [Site "chess.com"]
@@ -244,7 +244,7 @@
 [Round "2"]
 [White "mrbenoni"]
 [Black "alexvv2493"]
-[Result "*"]
+[Result "1-0"]
 [Section "1600+ B/C"]
 [WhiteId "lucar#2053"]
 [BlackId "alexvv24 #4577"]
@@ -252,7 +252,7 @@
 [BlackElo "1740"]
 
 {[%SevillaID "6550"]}
-*
+1-0
 
 [Event "2023 January Dojo Classical"]
 [Site "chess.com"]
@@ -308,7 +308,7 @@
 [Round "2"]
 [White "Rhysszz"]
 [Black "FlippyDolphin"]
-[Result "*"]
+[Result "0-0"]
 [Section "1600+ B/C"]
 [WhiteId "Rhysszz#2810"]
 [BlackId "FlippyTemphin#3019"]
@@ -316,7 +316,7 @@
 [BlackElo "1610"]
 
 {[%SevillaID "6567"]}
-*
+0-0
 
 [Event "2023 January Dojo Classical"]
 [Site "chess.com"]

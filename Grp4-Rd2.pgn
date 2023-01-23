@@ -36,7 +36,7 @@
 [Round "2"]
 [White "DerDichterUndDenker"]
 [Black "SafuyaRedemptionArc"]
-[Result "*"]
+[Result "0-1"]
 [Section "1200-1600 B/C"]
 [WhiteId "DerDenker#6352"]
 [BlackId "Safuya#7702"]
@@ -44,7 +44,7 @@
 [BlackElo "1428"]
 
 {[%SevillaID "6448"]}
-*
+0-1
 
 [Event "2023 January Dojo Classical"]
 [Site "chess.com"]
@@ -100,7 +100,7 @@
 [Round "2"]
 [White "kauberdi"]
 [Black "leedw2"]
-[Result "*"]
+[Result "0-1"]
 [Section "1200-1600 B/C"]
 [WhiteId "kauberdi#4599"]
 [BlackId "StA#1030"]
@@ -108,7 +108,7 @@
 [BlackElo "1340"]
 
 {[%SevillaID "6451"]}
-*
+0-1
 
 [Event "2023 January Dojo Classical"]
 [Site "chess.com"]
