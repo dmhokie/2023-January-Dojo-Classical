@@ -11,7 +11,7 @@
 [WhiteElo "499"]
 [BlackElo "895"]
 
-{[%SevillaID "6577"]}
+{[%SevillaID "6680"]}
 *
 
 [Event "2023 January Dojo Classical"]
@@ -19,15 +19,15 @@
 [Date "2023.01.23"]
 [Round "3"]
 [White "Belemrys"]
-[Black "brooks11b"]
+[Black "peadarriley"]
 [Result "*"]
 [Section "u1200 A"]
 [WhiteId "Belemrys#4678"]
-[BlackId "Brooks#7724"]
+[BlackId "Peadar#2594"]
 [WhiteElo "1154"]
-[BlackElo "790"]
+[BlackElo "685"]
 
-{[%SevillaID "6587"]}
+{[%SevillaID "6690"]}
 *
 
 [Event "2023 January Dojo Classical"]
@@ -43,7 +43,23 @@
 [WhiteElo "1082"]
 [BlackElo "842"]
 
-{[%SevillaID "6572"]}
+{[%SevillaID "6676"]}
+*
+
+[Event "2023 January Dojo Classical"]
+[Site "chess.com"]
+[Date "2023.01.23"]
+[Round "3"]
+[White "brooks11b"]
+[Black "DustinDreams"]
+[Result "*"]
+[Section "u1200 A"]
+[WhiteId "Brooks#7724"]
+[BlackId "DustinDreams#4351"]
+[WhiteElo "790"]
+[BlackElo "828"]
+
+{[%SevillaID "6691"]}
 *
 
 [Event "2023 January Dojo Classical"]
@@ -59,7 +75,7 @@
 [WhiteElo "1036"]
 [BlackElo "1146"]
 
-{[%SevillaID "6578"]}
+{[%SevillaID "6681"]}
 *
 
 [Event "2023 January Dojo Classical"]
@@ -67,15 +83,31 @@
 [Date "2023.01.23"]
 [Round "3"]
 [White "catesta"]
-[Black "StevoWard"]
+[Black "hailbo"]
 [Result "*"]
 [Section "u1200 A"]
 [WhiteId "TaylorCates"]
-[BlackId "StevoWard#3450"]
+[BlackId "hailbo#6804"]
 [WhiteElo "1154"]
-[BlackElo "1088"]
+[BlackElo "1032"]
 
-{[%SevillaID "6574"]}
+{[%SevillaID "6678"]}
+*
+
+[Event "2023 January Dojo Classical"]
+[Site "chess.com"]
+[Date "2023.01.23"]
+[Round "3"]
+[White "chavezo"]
+[Black "gundamwingsdj"]
+[Result "*"]
+[Section "u1200 A"]
+[WhiteId "oscar231#0537"]
+[BlackId "gundamwings#1919"]
+[WhiteElo "923"]
+[BlackElo "715"]
+
+{[%SevillaID "6679"]}
 *
 
 [Event "2023 January Dojo Classical"]
@@ -83,31 +115,15 @@
 [Date "2023.01.23"]
 [Round "3"]
 [White "ChessCharlie10"]
-[Black "dkoufos"]
+[Black "Na4olean"]
 [Result "*"]
 [Section "u1200 A"]
 [WhiteId "ChessCharlie10#9751"]
-[BlackId "omegadave#9057"]
+[BlackId "Na4olean#6091"]
 [WhiteElo "1151"]
-[BlackElo "1153"]
+[BlackElo "1086"]
 
-{[%SevillaID "6584"]}
-*
-
-[Event "2023 January Dojo Classical"]
-[Site "chess.com"]
-[Date "2023.01.23"]
-[Round "3"]
-[White "DustinDreams"]
-[Black "exequiel3"]
-[Result "*"]
-[Section "u1200 A"]
-[WhiteId "DustinDreams#4351"]
-[BlackId "Exequiel3#0031"]
-[WhiteElo "828"]
-[BlackElo "917"]
-
-{[%SevillaID "6588"]}
+{[%SevillaID "6686"]}
 *
 
 [Event "2023 January Dojo Classical"]
@@ -123,39 +139,7 @@
 [WhiteElo "923"]
 [BlackElo "1159"]
 
-{[%SevillaID "6571"]}
-*
-
-[Event "2023 January Dojo Classical"]
-[Site "chess.com"]
-[Date "2023.01.23"]
-[Round "3"]
-[White "hailbo"]
-[Black "chavezo"]
-[Result "*"]
-[Section "u1200 A"]
-[WhiteId "hailbo#6804"]
-[BlackId "oscar231#0537"]
-[WhiteElo "1032"]
-[BlackElo "923"]
-
-{[%SevillaID "6575"]}
-*
-
-[Event "2023 January Dojo Classical"]
-[Site "chess.com"]
-[Date "2023.01.23"]
-[Round "3"]
-[White "jenesuispasdave"]
-[Black "Na4olean"]
-[Result "*"]
-[Section "u1200 A"]
-[WhiteId "jenesuispasdave#1523"]
-[BlackId "Na4olean#6091"]
-[WhiteElo "672"]
-[BlackElo "1086"]
-
-{[%SevillaID "6585"]}
+{[%SevillaID "6675"]}
 *
 
 [Event "2023 January Dojo Classical"]
@@ -171,7 +155,7 @@
 [WhiteElo "879"]
 [BlackElo "800"]
 
-{[%SevillaID "6581"]}
+{[%SevillaID "6684"]}
 *
 
 [Event "2023 January Dojo Classical"]
@@ -187,7 +171,7 @@
 [WhiteElo "1192"]
 [BlackElo "969"]
 
-{[%SevillaID "6570"]}
+{[%SevillaID "6674"]}
 *
 
 [Event "2023 January Dojo Classical"]
@@ -195,15 +179,15 @@
 [Date "2023.01.23"]
 [Round "3"]
 [White "luisefren01"]
-[Black "peadarriley"]
+[Black "jenesuispasdave"]
 [Result "*"]
 [Section "u1200 A"]
 [WhiteId "#0865"]
-[BlackId "Peadar#2594"]
+[BlackId "jenesuispasdave#1523"]
 [WhiteElo "1179"]
-[BlackElo "685"]
+[BlackElo "672"]
 
-{[%SevillaID "6586"]}
+{[%SevillaID "6689"]}
 *
 
 [Event "2023 January Dojo Classical"]
@@ -219,7 +203,7 @@
 [WhiteElo "746"]
 [BlackElo "1000"]
 
-{[%SevillaID "6583"]}
+{[%SevillaID "6688"]}
 *
 
 [Event "2023 January Dojo Classical"]
@@ -235,7 +219,7 @@
 [WhiteElo "1043"]
 [BlackElo "1150"]
 
-{[%SevillaID "6569"]}
+{[%SevillaID "6673"]}
 *
 
 [Event "2023 January Dojo Classical"]
@@ -251,7 +235,7 @@
 [WhiteElo "1036"]
 [BlackElo "1106"]
 
-{[%SevillaID "6573"]}
+{[%SevillaID "6677"]}
 *
 
 [Event "2023 January Dojo Classical"]
@@ -267,7 +251,7 @@
 [WhiteElo "977"]
 [BlackElo "685"]
 
-{[%SevillaID "6579"]}
+{[%SevillaID "6682"]}
 *
 
 [Event "2023 January Dojo Classical"]
@@ -275,15 +259,15 @@
 [Date "2023.01.23"]
 [Round "3"]
 [White "richardzt"]
-[Black "Ekrinain"]
+[Black "dkoufos"]
 [Result "*"]
 [Section "u1200 A"]
 [WhiteId "richardzt#7163"]
-[BlackId "Ekrin#2594"]
+[BlackId "omegadave#9057"]
 [WhiteElo "829"]
-[BlackElo "800"]
+[BlackElo "1153"]
 
-{[%SevillaID "6582"]}
+{[%SevillaID "6687"]}
 *
 
 [Event "2023 January Dojo Classical"]
@@ -299,23 +283,23 @@
 [WhiteElo "969"]
 [BlackElo "786"]
 
-{[%SevillaID "6580"]}
+{[%SevillaID "6683"]}
 *
 
 [Event "2023 January Dojo Classical"]
 [Site "chess.com"]
 [Date "2023.01.23"]
 [Round "3"]
-[White "TonyRubak"]
-[Black "gundamwingsdj"]
+[White "StevoWard"]
+[Black "Ekrinain"]
 [Result "*"]
 [Section "u1200 A"]
-[WhiteId "Tony Rubak#2211"]
-[BlackId "gundamwings#1919"]
-[WhiteElo "946"]
-[BlackElo "715"]
+[WhiteId "StevoWard#3450"]
+[BlackId "Ekrin#2594"]
+[WhiteElo "1088"]
+[BlackElo "800"]
 
-{[%SevillaID "6576"]}
+{[%SevillaID "6685"]}
 *
 
 
