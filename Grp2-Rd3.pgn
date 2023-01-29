@@ -4,7 +4,7 @@
 [Round "3"]
 [White "Artic42"]
 [Black "QSophie"]
-[Result "*"]
+[Result "1-0"]
 [Section "u1200 B/C"]
 [WhiteId "Artic42#1076"]
 [BlackId "SophieB#9183"]
@@ -12,7 +12,7 @@
 [BlackElo "839"]
 
 {[%SevillaID "6592"]}
-*
+1-0
 
 [Event "2023 January Dojo Classical"]
 [Site "chess.com"]
@@ -20,7 +20,7 @@
 [Round "3"]
 [White "Bestboiprime"]
 [Black "Oberlus Chinaski"]
-[Result "*"]
+[Result "1-0"]
 [Section "u1200 B/C"]
 [WhiteId "Yoeri#6650"]
 [BlackId "Oberlus_Chinaski (L,C, +1)#8167"]
@@ -28,7 +28,7 @@
 [BlackElo "1170"]
 
 {[%SevillaID "6593"]}
-*
+1-0
 
 [Event "2023 January Dojo Classical"]
 [Site "chess.com"]
@@ -52,7 +52,7 @@
 [Round "3"]
 [White "Djydjy22"]
 [Black "BredellPeter"]
-[Result "*"]
+[Result "0-1"]
 [Section "u1200 B/C"]
 [WhiteId "Toni#9134"]
 [BlackId "PeterBredell#0610"]
@@ -60,7 +60,7 @@
 [BlackElo "1172"]
 
 {[%SevillaID "6590"]}
-*
+0-1
 
 [Event "2023 January Dojo Classical"]
 [Site "chess.com"]
@@ -68,7 +68,7 @@
 [Round "3"]
 [White "mentosovitz"]
 [Black "PepperChess"]
-[Result "*"]
+[Result "0-1"]
 [Section "u1200 B/C"]
 [WhiteId "mentosovitz #2211"]
 [BlackId "PepperChess#6028"]
@@ -76,7 +76,7 @@
 [BlackElo "760"]
 
 {[%SevillaID "6594"]}
-*
+0-1
 
 [Event "2023 January Dojo Classical"]
 [Site "chess.com"]
@@ -84,7 +84,7 @@
 [Round "3"]
 [White "Orcogigi"]
 [Black "NowzGaming"]
-[Result "*"]
+[Result "0-1"]
 [Section "u1200 B/C"]
 [WhiteId "Orcogigi (C,L,+2)#1312"]
 [BlackId "NowzGaming#1469"]
@@ -92,7 +92,7 @@
 [BlackElo "1100"]
 
 {[%SevillaID "6589"]}
-*
+0-1
 
 [Event "2023 January Dojo Classical"]
 [Site "chess.com"]
@@ -116,7 +116,7 @@
 [Round "3"]
 [White "riptiondesc"]
 [Black "domvmd"]
-[Result "*"]
+[Result "0-1"]
 [Section "u1200 B/C"]
 [WhiteId "riptiondesc#3977"]
 [BlackId "domvmd#3322"]
@@ -124,6 +124,6 @@
 [BlackElo "756"]
 
 {[%SevillaID "6591"]}
-*
+0-1
 
 

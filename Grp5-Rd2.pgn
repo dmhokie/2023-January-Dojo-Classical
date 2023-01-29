@@ -20,7 +20,7 @@
 [Round "2"]
 [White "AlexDodd"]
 [Black "Othychess"]
-[Result "0-0"]
+[Result "1-0"]
 [Section "1600+ A"]
 [WhiteId "Alex Dodd#9849"]
 [BlackId "Othy#8106"]
@@ -28,7 +28,7 @@
 [BlackElo "2000"]
 
 {[%SevillaID "6462"]}
-0-0
+1-0
 
 [Event "2023 January Dojo Classical"]
 [Site "chess.com"]
@@ -164,7 +164,7 @@
 [Round "2"]
 [White "Halvbjorn"]
 [Black "Faustyn1"]
-[Result "0-0"]
+[Result "0-1"]
 [Section "1600+ A"]
 [WhiteId "Halvbjorn#6184"]
 [BlackId "dilybob#4820"]
@@ -172,7 +172,7 @@
 [BlackElo "1700"]
 
 {[%SevillaID "6474"]}
-0-0
+0-1
 
 [Event "2023 January Dojo Classical"]
 [Site "chess.com"]
