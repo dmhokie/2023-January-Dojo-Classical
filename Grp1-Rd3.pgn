@@ -4,7 +4,7 @@
 [Round "3"]
 [White "ashesfallx"]
 [Black "edhans"]
-[Result "*"]
+[Result "1-0"]
 [Section "u1200 A"]
 [WhiteId "ashesfall#7206"]
 [BlackId "Ed4ChessStudy"]
@@ -12,7 +12,7 @@
 [BlackElo "895"]
 
 {[%SevillaID "6680"]}
-*
+1-0
 
 [Event "2023 January Dojo Classical"]
 [Site "chess.com"]
@@ -36,7 +36,7 @@
 [Round "3"]
 [White "BenHaggis"]
 [Black "PanickedPawns"]
-[Result "*"]
+[Result "1/2-1/2"]
 [Section "u1200 A"]
 [WhiteId "BenHaggis (L,C, UTC-5)#6021"]
 [BlackId "panickedpawns#4030"]
@@ -44,7 +44,7 @@
 [BlackElo "842"]
 
 {[%SevillaID "6676"]}
-*
+1/2-1/2
 
 [Event "2023 January Dojo Classical"]
 [Site "chess.com"]
@@ -52,7 +52,7 @@
 [Round "3"]
 [White "brooks11b"]
 [Black "DustinDreams"]
-[Result "*"]
+[Result "0-0"]
 [Section "u1200 A"]
 [WhiteId "Brooks#7724"]
 [BlackId "DustinDreams#4351"]
@@ -60,7 +60,7 @@
 [BlackElo "828"]
 
 {[%SevillaID "6691"]}
-*
+0-0
 
 [Event "2023 January Dojo Classical"]
 [Site "chess.com"]
@@ -68,7 +68,7 @@
 [Round "3"]
 [White "btramel"]
 [Black "davisas1998"]
-[Result "*"]
+[Result "0-1"]
 [Section "u1200 A"]
 [WhiteId "btramel#9543"]
 [BlackId "Alex D#6020"]
@@ -76,7 +76,7 @@
 [BlackElo "1146"]
 
 {[%SevillaID "6681"]}
-*
+0-1
 
 [Event "2023 January Dojo Classical"]
 [Site "chess.com"]
@@ -84,7 +84,7 @@
 [Round "3"]
 [White "catesta"]
 [Black "hailbo"]
-[Result "*"]
+[Result "0-0"]
 [Section "u1200 A"]
 [WhiteId "TaylorCates"]
 [BlackId "hailbo#6804"]
@@ -92,7 +92,7 @@
 [BlackElo "1032"]
 
 {[%SevillaID "6678"]}
-*
+0-0
 
 [Event "2023 January Dojo Classical"]
 [Site "chess.com"]
@@ -164,7 +164,7 @@
 [Round "3"]
 [White "knownothing123"]
 [Black "mike1mike"]
-[Result "*"]
+[Result "1-0"]
 [Section "u1200 A"]
 [WhiteId "pastpeak#0846"]
 [BlackId "Mike1Mike#5542"]
@@ -172,7 +172,7 @@
 [BlackElo "969"]
 
 {[%SevillaID "6674"]}
-*
+1-0
 
 [Event "2023 January Dojo Classical"]
 [Site "chess.com"]
@@ -260,7 +260,7 @@
 [Round "3"]
 [White "richardzt"]
 [Black "dkoufos"]
-[Result "*"]
+[Result "0-1"]
 [Section "u1200 A"]
 [WhiteId "richardzt#7163"]
 [BlackId "omegadave#9057"]
@@ -268,7 +268,7 @@
 [BlackElo "1153"]
 
 {[%SevillaID "6687"]}
-*
+0-1
 
 [Event "2023 January Dojo Classical"]
 [Site "chess.com"]

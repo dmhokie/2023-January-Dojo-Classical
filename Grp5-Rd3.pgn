@@ -4,7 +4,7 @@
 [Round "3"]
 [White "AlexDodd"]
 [Black "SmallBrainPlays"]
-[Result "*"]
+[Result "1-0"]
 [Section "1600+ A"]
 [WhiteId "Alex Dodd#9849"]
 [BlackId "Yeti#8414"]
@@ -12,7 +12,7 @@
 [BlackElo "2004"]
 
 {[%SevillaID "6645"]}
-*
+1-0
 
 [Event "2023 January Dojo Classical"]
 [Site "chess.com"]
@@ -20,7 +20,7 @@
 [Round "3"]
 [White "alfbz"]
 [Black "carambola58"]
-[Result "*"]
+[Result "0-0"]
 [Section "1600+ A"]
 [WhiteId "alfbz#7639"]
 [BlackId "León6#6918"]
@@ -28,7 +28,7 @@
 [BlackElo "1613"]
 
 {[%SevillaID "6648"]}
-*
+0-0
 
 [Event "2023 January Dojo Classical"]
 [Site "chess.com"]
@@ -36,7 +36,7 @@
 [Round "3"]
 [White "CarefulOnReenetry"]
 [Black "devang2603"]
-[Result "*"]
+[Result "0-0"]
 [Section "1600+ A"]
 [WhiteId "cogpark #6560"]
 [BlackId "devang#4933"]
@@ -44,7 +44,7 @@
 [BlackElo "2134"]
 
 {[%SevillaID "6652"]}
-*
+0-0
 
 [Event "2023 January Dojo Classical"]
 [Site "chess.com"]
@@ -52,7 +52,7 @@
 [Round "3"]
 [White "DuncanClotfelter"]
 [Black "Drtyhrrynlsnplsbry"]
-[Result "*"]
+[Result "0-0"]
 [Section "1600+ A"]
 [WhiteId "DuncanClotfelter#9283"]
 [BlackId "DirtyHarryNelsonPillsbury#3603"]
@@ -60,7 +60,7 @@
 [BlackElo "1914"]
 
 {[%SevillaID "6650"]}
-*
+0-0
 
 [Event "2023 January Dojo Classical"]
 [Site "chess.com"]
@@ -68,7 +68,7 @@
 [Round "3"]
 [White "Faustyn1"]
 [Black "Darth Guinness"]
-[Result "*"]
+[Result "1-0"]
 [Section "1600+ A"]
 [WhiteId "dilybob#4820"]
 [BlackId "Darth_Guinness#6176"]
@@ -76,7 +76,7 @@
 [BlackElo "1671"]
 
 {[%SevillaID "6649"]}
-*
+1-0
 
 [Event "2023 January Dojo Classical"]
 [Site "chess.com"]
@@ -84,7 +84,7 @@
 [Round "3"]
 [White "FourOne1"]
 [Black "ryanberg01"]
-[Result "*"]
+[Result "0-1"]
 [Section "1600+ A"]
 [WhiteId "FourOne1#1161"]
 [BlackId "Ryan Cameron#8589"]
@@ -92,7 +92,7 @@
 [BlackElo "1909"]
 
 {[%SevillaID "6644"]}
-*
+0-1
 
 [Event "2023 January Dojo Classical"]
 [Site "chess.com"]
@@ -164,7 +164,7 @@
 [Round "3"]
 [White "jose mena 123"]
 [Black "Othychess"]
-[Result "*"]
+[Result "0-1"]
 [Section "1600+ A"]
 [WhiteId "jmena123#4680"]
 [BlackId "Othy#8106"]
@@ -172,7 +172,7 @@
 [BlackElo "2000"]
 
 {[%SevillaID "6641"]}
-*
+0-1
 
 [Event "2023 January Dojo Classical"]
 [Site "chess.com"]
@@ -212,7 +212,7 @@
 [Round "3"]
 [White "maximsmillan"]
 [Black "mrbeaters"]
-[Result "*"]
+[Result "0-1"]
 [Section "1600+ A"]
 [WhiteId "maximus#9085"]
 [BlackId "mrbeaters (C,L,+1)#1147"]
@@ -220,7 +220,7 @@
 [BlackElo "1916"]
 
 {[%SevillaID "6635"]}
-*
+0-1
 
 [Event "2023 January Dojo Classical"]
 [Site "chess.com"]
@@ -228,7 +228,7 @@
 [Round "3"]
 [White "morphyfanLL"]
 [Black "dmg1979"]
-[Result "*"]
+[Result "1-0"]
 [Section "1600+ A"]
 [WhiteId "morphyfanLL#8385"]
 [BlackId "dmg1979"]
@@ -236,7 +236,7 @@
 [BlackElo "1947"]
 
 {[%SevillaID "6640"]}
-*
+1-0
 
 [Event "2023 January Dojo Classical"]
 [Site "chess.com"]
@@ -292,7 +292,7 @@
 [Round "3"]
 [White "tinglylawyer"]
 [Black "Lona Chess"]
-[Result "*"]
+[Result "0-0"]
 [Section "1600+ A"]
 [WhiteId "mitz#1033"]
 [BlackId "Lona_Chess#4121"]
@@ -300,6 +300,6 @@
 [BlackElo "1625"]
 
 {[%SevillaID "6646"]}
-*
+0-0
 
 
